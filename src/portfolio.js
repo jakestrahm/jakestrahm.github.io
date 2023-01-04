@@ -27,6 +27,14 @@ const projects = [
         sourceCode: 'https://github.com/jakestrahm/forum-backend',
         livePreview: '',
     },
+    {
+        name: 'Chat',
+        description:
+            'A real time chat service; with multiple chat rooms and user authentication.',
+        stack: ['javascript', 'react', 'tailwind', 'daisy-ui', 'firebase',],
+        sourceCode: 'https://github.com/jakestrahm/chat',
+        livePreview: '',
+    },
 ]
 
 const experience = [
@@ -61,6 +69,7 @@ const skills = [
     'javascript',
     'material-ui',
     'tailwind',
+    'daisy-ui',
     'typescript',
     'css',
     'html',
@@ -71,6 +80,10 @@ const skills = [
     'express',
     'c++',
     'python',
+    'mongodb',
+    'firebase',
+    'postgresql',
+    'microsoft sql server',
     'git',
     'docker',
     'linux',

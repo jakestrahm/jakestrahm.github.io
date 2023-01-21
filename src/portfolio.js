@@ -30,7 +30,7 @@ const projects = [
     {
         name: 'jMessage',
         description:
-            'A chat service with real time updates, multiple chat rooms, user authentication, and a recreation of iMessage\'s mobile UI; built with React, Tailwind, Daisy-UI, and Firebase.',
+            'A chat service with real time updates, multiple chat rooms, user authentication, and a recreation of iMessage\'s mobile UI',
         stack: ['javascript', 'react', 'tailwind', 'daisy-ui', 'firebase',],
         sourceCode: 'https://github.com/jakestrahm/chat',
         livePreview: '',

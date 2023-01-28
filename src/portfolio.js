@@ -54,7 +54,7 @@ const experience = [
             'Developed the functionality and user interface of Outspoke’s data analytics platform; creating dashboards, data visualizations, and the supporting APIs.',
         role: 'Full Stack Engineer',
         start: 'July 2022',
-        end: 'Present',
+        end: 'Dec 2022',
         bullets: [
         ],
         stack: ['javascript', 'react', 'material-ui', 'chartjs', 'nodejs', 'express', 'mongodb'],
@@ -64,7 +64,7 @@ const experience = [
         description:
             'Designed and developed over thirty client websites with a team of developers; supporting operations by developing internal tools.',
         role: 'Full Stack Engineer',
-        start: 'March 2021',
+        start: 'Feb 2021',
         end: 'July 2022',
         stack: ['javascript', 'react', 'material-ui', '.net', 'c#', 'microsoft sql server'],
     },

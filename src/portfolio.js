@@ -65,7 +65,7 @@ const experience = [
             'Designed and developed over thirty client websites with a team of developers; supporting operations by developing internal tools.',
         role: 'Full Stack Engineer',
         start: 'Feb 2021',
-        end: 'July 2022',
+        end: 'July 2021',
         stack: ['javascript', 'react', 'material-ui', '.net', 'c#', 'microsoft sql server'],
     },
 ]

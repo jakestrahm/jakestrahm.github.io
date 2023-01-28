@@ -20,6 +20,14 @@ const projects = [
     // projects can be added an removed
     // if there are no projects, Projects section won't show up
     {
+        name: 'Reminders',
+        description:
+            'My team\'s entry in 48-hour Treasure-Hacks-3 hackathon. A reminder application with user authentication, task and event reminders via email or SMS and a mobile responsive user interface.',
+        stack: ['javascript', 'node', 'express', 'react', 'mongodb'],
+        sourceCode: 'https://github.com/jakestrahm/forum-backend',
+        livePreview: '',
+    },
+    {
         name: 'Forum',
         description:
             'A forum akin to stack overflow; with user accounts, posts, and comments.',
@@ -65,25 +73,22 @@ const experience = [
 const skills = [
     // skills can be added or removed
     // if there are no skills, Skills section won't show up
-    'react',
     'javascript',
-    'material-ui',
-    'tailwind',
-    'daisy-ui',
-    'typescript',
-    'css',
-    'html',
-    'c#',
-    '.net',
-    'sql',
     'nodejs',
     'express',
+    'react',
+    'redux',
+    'typescript',
+    'material-ui',
+    'tailwind',
+    'css',
+    'html',
+    'sql',
     'c++',
     'python',
     'mongodb',
     'firebase',
     'postgresql',
-    'microsoft sql server',
     'git',
     'docker',
     'linux',

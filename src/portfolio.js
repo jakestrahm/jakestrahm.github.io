@@ -57,7 +57,7 @@ const experience = [
         end: 'Dec 2022',
         bullets: [
         ],
-        stack: ['javascript', 'react', 'material-ui', 'chartjs', 'nodejs', 'express', 'mongodb'],
+        stack: ['javascript', 'node', 'express', 'react', 'redux', 'material-ui', 'mongodb'],
     },
     {
         name: 'Suco',
@@ -66,7 +66,7 @@ const experience = [
         role: 'Full Stack Engineer',
         start: 'Feb 2021',
         end: 'July 2021',
-        stack: ['javascript', 'node', 'express', 'material-ui', 'react', 'mongodb', 'postgresql'],
+        stack: ['javascript', 'node', 'express', 'react', 'material-ui', 'mongodb', 'postgresql'],
     },
 ]
 

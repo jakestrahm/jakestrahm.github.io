@@ -66,17 +66,13 @@ const experience = [
         role: 'Full Stack Engineer',
         start: 'Feb 2021',
         end: 'July 2021',
-        stack: ['c#', '.net', 'sql server', 'postgresql', 'javascript', 'react', 'material-ui'],
+        stack: ['javascript', 'node', 'express', 'react', 'material-ui', 'mongodb', 'postgresql'],
     },
 ]
 
 const skills = [
     // skills can be added or removed
     // if there are no skills, Skills section won't show up
-    '.net',
-    'c#',
-    'postgresql',
-    'sql server',
     'javascript',
     'nodejs',
     'express',
@@ -92,6 +88,7 @@ const skills = [
     'python',
     'mongodb',
     'firebase',
+    'postgresql',
     'git',
     'docker',
     'linux',

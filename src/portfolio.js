@@ -22,7 +22,7 @@ const projects = [
     {
         name: 'Reminders',
         description:
-            'My team\'s entry in 48-hour Treasure-Hacks-3 hackathon. A reminder application with user authentication, task and event reminders via email or SMS and a mobile responsive user interface.',
+            'My team\'s entry in 48-hour Treasure-Hacks-3 hackathon. A reminder application with user authentication, task and event reminders via email or SMS, and a mobile responsive user interface.',
         stack: ['javascript', 'node', 'express', 'react', 'mongodb'],
         sourceCode: 'https://github.com/jakestrahm/forum-backend',
         livePreview: '',

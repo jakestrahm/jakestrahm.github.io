@@ -66,7 +66,7 @@ const experience = [
         role: 'Full Stack Engineer',
         start: 'Feb 2021',
         end: 'July 2021',
-        stack: ['javascript', 'node', 'express', 'react', 'material-ui', 'postgresql'],
+        stack: ['javascript', 'node', 'express', 'react', 'material-ui', 'postgresql', 'python'],
     },
 ]
 

@@ -20,17 +20,17 @@ const projects = [
     // projects can be added an removed
     // if there are no projects, Projects section won't show up
     {
-        name: 'Reminders',
+        name: 'T.H.R.',
         description:
-            'My team\'s entry in 48-hour Treasure-Hacks-3 hackathon. A reminder application with user authentication, task and event reminders via email or SMS, and a mobile responsive user interface.',
+            'Reminders application for team\'s hackathon entry. Designed application, architected system, and mentored participants through development of frontend within 48 hours.',
         stack: ['javascript', 'node', 'express', 'react', 'mongodb'],
-        sourceCode: 'https://github.com/jakestrahm/forum-backend',
+        sourceCode: 'https://github.com/jakestrahm/treasure-hacks-3',
         livePreview: '',
     },
     {
-        name: 'Forum',
+        name: 'Computer Club Communications',
         description:
-            'A forum akin to stack overflow; with user accounts, posts, and comments.',
+            'Forum for alma mater\'s computer club. Designed application, architected system, implemented the backend, and mentored participants through development of frontend.',
         stack: ['javascript', 'node', 'express', 'mongodb'],
         sourceCode: 'https://github.com/jakestrahm/forum-backend',
         livePreview: '',
@@ -40,7 +40,7 @@ const projects = [
         description:
             'A chat service with real time updates, multiple chat rooms, user authentication, and a recreation of iMessage\'s mobile UI',
         stack: ['javascript', 'react', 'tailwind', 'daisy-ui', 'firebase',],
-        sourceCode: 'https://github.com/jakestrahm/chat',
+        sourceCode: 'https://github.com/jakestrahm/jMessage',
         livePreview: '',
     },
 ]
@@ -49,54 +49,71 @@ const experience = [
     // projects can be added an removed
     // if there are no projects, Projects section won't show up
     {
+        name: 'CarepathRx',
+        description:
+            'Engineer new features and modernize core components of CarepathRx\'s patient therapy management platform; developing dashboards to support both internal and client operations.',
+        role: 'Software Engineer',
+        start: 'Mar 2024',
+        end: 'Present',
+        bullets: [
+        ],
+        stack: ['typescript', 'node', 'react', 'redux', 'bootstrap', 'mysql', 'socket.io'],
+    },
+    {
         name: 'Outspoke',
         description:
-            'Developed the functionality and user interface of Outspoke’s data analytics platform; creating dashboards, data visualizations, and the supporting APIs.',
-        role: 'Full Stack Engineer',
+            'Developed the functionality and user interface of Outspoke’s data analytics platform- creating dashboards, data visualizations, and several internal tools.',
+        role: 'Developer',
         start: 'July 2022',
         end: 'Dec 2022',
         bullets: [
         ],
-        stack: ['javascript', 'node', 'express', 'react', 'redux', 'material-ui', 'mongodb'],
+        stack: ['typescript', 'node', 'express', 'react', 'redux', 'material-ui', 'mongodb'],
     },
     {
         name: 'Suco',
         description:
             'Designed and developed over thirty client websites with a team of developers; supporting operations by developing internal tools.',
-        role: 'Full Stack Engineer',
+        role: 'Web Developer',
         start: 'Feb 2021',
         end: 'July 2021',
-        stack: ['javascript', 'node', 'express', 'react', 'material-ui', 'postgresql', 'python'],
+        stack: ['typescript', 'node', 'express', 'react', 'material-ui', 'postgresql' ],
     },
 ]
 
 const skills = [
-    // skills can be added or removed
-    // if there are no skills, Skills section won't show up
-    'javascript',
-    'nodejs',
-    'express',
-    'react',
-    'redux',
+    // languages
     'typescript',
-    'material-ui',
-    'tailwind',
+    'javascript',
+    'c++',
+    'sql',
     'css',
     'html',
-    'sql',
-    'c++',
-    'python',
-    'mongodb',
-    'firebase',
+
+    // technologies
+    'node.js',
+    'express',
+    'react',
+    'redux toolkit',
+    'socket.io',
+    'd3',
+    'bootstrap',
+
+    // databases
     'postgresql',
-    'git',
+    'mongodb',
+    'mysql',
+    'mssql',
+
+    // other
     'docker',
-    'linux',
+    'git',
+    'aws',
+    'linux'
 ]
 
 const contact = {
     // email is optional - if left empty Contact section won't show up
-    email: 'jaanstra@gmail.com',
 }
 
 export { header, about, projects, skills, contact, experience }

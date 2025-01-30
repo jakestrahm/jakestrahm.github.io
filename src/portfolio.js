@@ -51,7 +51,7 @@ const experience = [
     {
         name: 'CarepathRx',
         description:
-            'Engineer new features and modernize core components of CarepathRx's patient therapy management platform; develop dashboards to support both internal and client operations.',
+            'Engineer new features and modernize core components of CarepathRx\'s patient therapy management platform; develop dashboards to support both internal and client operations.',
         role: 'Software Engineer',
         start: 'Mar 2024',
         end: 'Present',

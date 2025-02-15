@@ -73,7 +73,7 @@ const experience = [
     {
         name: 'Suco',
         description:
-            'Designed and developed over thirty client websites with a team of developers; supporting operations by developing internal tools.',
+            'Developed and managed client websites with a team of developers; supporting operations by developing internal tools.',
         role: 'Web Developer',
         start: 'Feb 2021',
         end: 'July 2021',

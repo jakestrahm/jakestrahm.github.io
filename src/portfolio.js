@@ -62,7 +62,7 @@ const experience = [
     {
         name: 'Outspoke',
         description:
-            'Developed the functionality and user interface of Outspoke’s data analytics platform- creating dashboards, data visualizations, and several internal tools.',
+            'Developed the functionality of Outspoke’s data analytics platform- created dashboards, data visualizations, and internal tools.',
         role: 'Developer',
         start: 'July 2022',
         end: 'Dec 2022',

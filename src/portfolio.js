@@ -57,7 +57,7 @@ const experience = [
         end: 'Present',
         bullets: [
         ],
-        stack: ['typescript', 'node', 'react', 'redux', 'bootstrap', 'mysql', 'socket.io'],
+        stack: ['typescript', 'node', 'react',  'mysql', 'aws'],
     },
     {
         name: 'Outspoke',
@@ -68,7 +68,7 @@ const experience = [
         end: 'Dec 2022',
         bullets: [
         ],
-        stack: ['typescript', 'node', 'express', 'react', 'redux', 'material-ui', 'mongodb'],
+        stack: ['typescript', 'node', 'react',  'mongodb', 'aws'],
     },
     {
         name: 'Suco',
@@ -77,7 +77,7 @@ const experience = [
         role: 'Web Developer',
         start: 'Feb 2021',
         end: 'July 2021',
-        stack: ['typescript', 'node', 'express', 'react', 'material-ui', 'postgresql' ],
+        stack: ['typescript', 'node', 'react',  'postgresql', 'aws'],
     },
 ]
 
@@ -85,31 +85,21 @@ const skills = [
     // languages
     'typescript',
     'javascript',
-    'c++',
     'sql',
     'css',
     'html',
 
     // technologies
     'node.js',
-    'express',
     'react',
-    'redux toolkit',
-    'socket.io',
-    'd3',
-    'bootstrap',
+    'express',
+    'redux',
 
     // databases
     'postgresql',
     'mongodb',
     'mysql',
-    'mssql',
-
-    // other
-    'docker',
-    'git',
-    'aws',
-    'linux'
+	'aws',
 ]
 
 const contact = {

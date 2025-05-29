@@ -53,7 +53,7 @@ const experience = [
 		description:
 			'Engineer new features and modernize core legacy components of CarepathRx\'s patient therapy management platform; support operations by developing internal tools.',
 		role: 'Software Engineer',
-		start: 'Mar 2024',
+		start: 'Mar 2023',
 		end: 'Present',
 		bullets: [
 		],

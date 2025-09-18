@@ -73,7 +73,7 @@ const experience = [
 	{
 		name: 'Suco',
 		description:
-			'Built prospect relationships from initial contact to contract signing; developed and managed client websites.',
+			'Built prospect relationships from initial outreach to contract signing; developed and managed client websites.',
 		role: 'Web Developer',
 		start: 'Feb 2021',
 		end: 'July 2021',
